@@ -50,4 +50,6 @@ dependencies {
     //push 용
     implementation 'com.google.firebase:firebase-messaging:21.0.1'
 
+    //Database
+    implementation 'com.google.firebase:firebase-database:19.6.0'
 }
